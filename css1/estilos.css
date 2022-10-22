@@ -133,7 +133,7 @@ select {
 .boton {
   background-color: black;
   border: 2px solid;
-  color: #120edc;
+  color: #dc0e9b;
   border-radius: 15%;
   position: fixed;
   font-weight: bold;
@@ -155,3 +155,10 @@ h2 {
 
 .margin-left {
   margin-left: -1450px; }
+
+.thanks {
+  border: red 40px solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end; }
