@@ -170,3 +170,8 @@ h2 {
   flex-direction: row;
   justify-content: center;
   align-items: end; }
+
+.green-shadow {
+  box-shadow: #55ff2f 1px 1px 17px; }
+  .green-shadow:hover {
+    box-shadow: red 1px 1px 17px; }
