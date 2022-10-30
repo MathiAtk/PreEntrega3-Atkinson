@@ -182,7 +182,12 @@ h2{
 }
 .green-shadow{
     box-shadow: rgb(85, 255, 47) 1px 1px 17px;
-    &:hover{
-       box-shadow: red 1px 1px 17px;
     }
-}
+.green-shadow-hover{
+    box-shadow: rgb(85, 255, 47) 1px 1px 17px;
+        &:hover{
+            box-shadow: red 1px 1px 17px;
+        }
+    }
+
+
